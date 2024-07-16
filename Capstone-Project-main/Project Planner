@@ -1,0 +1,43 @@
+BUGS
+  -when cars are turning at a traffic light, they do not stop for other cars and they collide and disapear 
+
+WORKING FEATURES 
+  -Statistics:
+    -display avg stop time, total time, and number of stopped cars 
+  -Settings:
+      -layouts
+      -start/stop
+      -restart
+
+  -Cars:
+      - going in a straight line until reaching intersection
+      - stopping at a four way stop or stop light until car's turn to go
+
+  -Roads:
+      -lights change colors (red, yellow, green)
+
+  -LAYOUT:
+      - Add Trees to each layout design
+
+FEATURES CURRENTLY BEING WORKED ON
+  -Statistics:
+    -avg stop time display correctly
+
+  -Settings: 
+    -full screen button regardless of screen resolution
+    
+  -Cars:
+    -car turning
+    -car braking/acceleration
+    
+
+  -Roads:
+
+
+FUTURE FEATURES 
+- Add Grass, Buildings etc. to each layout design
+- Remove dark green blocks behind tunnels and leave black holes
+- Add separating line (with more customization) between game and settings
+- Click on a car and see/change its individual statistics
+- Click on a traffic light and see its individual statistics
+- 
